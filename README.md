@@ -1,5 +1,3 @@
-# SoostoneAssignment
-
 # About
 
 It loads Pokémon data and display it with a simple and clean UI powered by Jetpack Compose.
