@@ -17,7 +17,7 @@ It loads Pokémon data and display it with a simple and clean UI powered by Jetp
     com.example.soostoneassignment # Root Package
     .
     ├── data                 # Data layer
-    │   ├── repository    # Repository.
+    │   ├── repository    # Repository
     │   └── remote         # Remote data handlers
     
     ├── presentation    # View layer
